@@ -14,10 +14,38 @@ Er werd op een gegeef moment gekozen om een keer per week te vergaderen. Op aanr
 Dit was een goede tip en heeft geholpen om de vaart erin te houden.
 Nadeel is dat je mogelijkerwijs veel zit te vergaderen om niks, maar het was prima. 
 
-# Activiteiten 
-## Docentencafé
-## Debatavond
-## Filmavond
-## Filosofische debat avond 
-## Dryade Heidegger leesgroep 
+# Activiteiten
+Het is als commissie jullie taak om
+acitiviteiten te organiseren. 
 
+Deze activitetein liggen meer in richting met de verdiepende aspecten van de FUF.
+
+## Docentencafé
+Dit was een vast nummer. 
+Er zijn er twee in het jaar georganiseerd.
+
+### De eerste met Brandt van der Gaast
+Ging over van der Gaast's theorie van kleurperceptie. 
+Niet veel mensen kwamen opdagen. 
+
+### De tweede met Thomas Wells
+Over een voorstel de rechten die arbeidsmigrwnten krijgen te hervormen. 
+
+Dit was een betrekkelijk succes. 
+
+## Debatavond
+Er werd gekozen voor een sportdebat. BP-format. 
+
+## Filmavond
+Brazil en my dinner with André.
+
+Er kwamen helaas weinig anderen opdagen. 
+
+Dit kwam wellicht door de omstandigheden:
+Het weer was uitzonderlijk slecht en er waren OV-stakingen.
+
+## Filosofische debat avond
+Minder succesvol. 
+
+## Dryade Heidegger leesgroep 
+Zeer succesvol. 
