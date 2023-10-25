@@ -14,6 +14,11 @@ Er werd op een gegeef moment gekozen om een keer per week te vergaderen. Op aanr
 Dit was een goede tip en heeft geholpen om de vaart erin te houden.
 Nadeel is dat je mogelijkerwijs veel zit te vergaderen om niks, maar het was prima. 
 
+# Geschiedenis
+De Dryade is ouder dan de FUF zelf en was ooit een dispuut. 
+Getuige het onderzoek dat Sam Langelaan raporteerde op de Wissel ALV van bestuur 33.
+Getuige ook de papieren archieven die op moment van schrijven in de dossierkast liggen in het hok van de FUF (Drift 21 2.07, Utrecht). 
+
 # Activiteiten
 Het is als commissie jullie taak om
 acitiviteiten te organiseren. 
