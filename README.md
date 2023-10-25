@@ -4,7 +4,7 @@ Een repository met zo veel mogelijk van de witboeken van de FUF in git en markdo
 # Wat zijn witboeken?
 Witboeken zijn documenten die de FUF bijhoud om informatie in te delen.
 Meestal betreft dit informatie die commissies nodig hebben om te kunnen functioneren.
-Het zijn zegmaar draaiboeken.
+Je zou ze ook draaiboeken kunnen noemen. 
 
 Hier de eerste paar zinnen van [Wikipedia](https://nl.wikipedia.org/wiki/Witboek_(document)):
 > Een witboek of whitepaper is een document dat beschrijft hoe overheidsbeleid, een technologie, en/of product een specifiek probleem oplost. Witboeken worden gebruikt om de lezer van objectieve relevante informatie te voorzien die wordt gebruikt voor het nemen van een beslissing.
