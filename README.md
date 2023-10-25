@@ -18,8 +18,23 @@ Enkele kenmerken (deze beperken zich niet alleen tot witboeken):
 2. Ze worden niet bijgewerkt.
 3. Er is geen duidelijkheid over wie wat wanneer om welke reden heeft geschreven, dat traceren is ook moeilijk. 
 
-# Waarom in Git en Waarom in Markdown?
--- txt is mooi, vcs is voordelig --
+# Waarom in Git(Hub) en Waarom in Markdown?
+WIP
+
+Allereerst wat zijn Git en Markdown?
+
+Markdown is "PlaintText".
+
+PlainText heeft vele voordelen, zoals menig programmeur met een deugdelijke esthethisch oordeelvermogen al eerder heeft opgemerkt.  
+
+Plaintext is mooi, want:
+- Het is open en universeel. Het werkt overal, maakt niet uit wat voor software je gerbuikt.
+  - Je kan er meerdere soorten tools op los laten. 
+- Je kan er makkelijk in rond zoeken.
+- waarschijnlijk gaat deze documentatie niet rotten. Of de kans is kleiner. 
+
+Markdown is mooi want. Heeft minimale opmaak. Wijd geacepteerd. Veel tools om het te transpileren naar andere zooi, zoals mooie PDF's via latex. 
 
 # Waarom op een site zoals GitHub?
 -- maakt niet uit, zolang lockin bewust voorkomt --
+-- iets over silo's en google docs --. 
