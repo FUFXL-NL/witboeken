@@ -1,40 +1,42 @@
-De Dryade van 2022 - 2023 heeft een ietwst hobbelig jaar gehad,
+De Dryade van 2022  –  2023 heeft een ietwat hobbelig jaar gehad,
 wegend het tussentijdse aftreden van de voorzitter,
 desalniettemin hebben alle leden van de Dryade zich wel het hele jaar door ingezet om goede activiteiten neer te zetten.
 Aan het enthousiasme heeft het in ieder geval niet gelegen. 
 
 # interne communicatie 
-Er was gekozen om voor interne communicatie af te stappen van whatsapp als default en naar een combinatie van Discord en Signal te stappen, dit vanwege ethische bezwaren van de leden. 
+Er was gekozen om voor interne communicatie af te stappen van whatsapp als default en naar een combinatie van Discord en Signal te stappen,
+dit vanwege ethische bezwaren van de leden. 
 
 Dit is de rest van het jaar goed verlopen. 
 
 # een keer per week vergaderen
-Er werd op een gegeef moment gekozen om een keer per week te vergaderen. Op aanraden van het oude witboek dat voor 2017 - 2018 was geschreven door Émile van Bergeijk.
+Er werd op een gegeef moment gekozen om een keer per week te vergaderen.
+Op aanraden van het oude witboek dat voor 2017  –  2018 was geschreven door Émile van Bergeijk.
 
 Dit was een goede tip en heeft geholpen om de vaart erin te houden.
-Nadeel is dat je mogelijkerwijs veel zit te vergaderen om niks, maar het was prima. 
+Nadeel is dat je mogelijkerwijs veel zit te vergaderen om niets, maar het was prima. 
 
 # Geschiedenis
 De Dryade is ouder dan de FUF zelf en was ooit een dispuut. 
-Getuige het onderzoek dat Sam Langelaan raporteerde op de Wissel ALV van bestuur 33.
-Getuige ook de papieren archieven die op moment van schrijven in de dossierkast liggen in het hok van de FUF (Drift 21 2.07, Utrecht). 
+Getuige het onderzoek dat Sam Langelaan rapporteerde op de Wissel ALV van bestuur 33.
+Getuige ook de papieren archieven, die op moment van schrijven, in de dossierkast liggen, in het hok van de FUF (Drift 21 2.07, Utrecht). 
 
 # Activiteiten
 Het is als commissie jullie taak om
-acitiviteiten te organiseren. 
+Activiteiten te organiseren. 
 
-Deze activitetein liggen meer in richting met de verdiepende aspecten van de FUF.
+Deze activiteiten liggen meer in richting met de verdiepende aspecten van de FUF.
 
-## Docentencafé
+## Docentencafe
 Dit was een vast nummer. 
 Er zijn er twee in het jaar georganiseerd.
 
 ### De eerste met Brandt van der Gaast
-Ging over van der Gaast's theorie van kleurperceptie. 
+Ging over van der Gaasts theorie van kleurperceptie. 
 Niet veel mensen kwamen opdagen. 
 
 ### De tweede met Thomas Wells
-Over een voorstel de rechten die arbeidsmigrwnten krijgen te hervormen. 
+Over een voorstel de rechten die arbeidsmigranten krijgen te hervormen. 
 
 Dit was een betrekkelijk succes. 
 
@@ -42,7 +44,7 @@ Dit was een betrekkelijk succes.
 Er werd gekozen voor een sportdebat. BP-format. 
 
 ## Filmavond
-Brazil en my dinner with André.
+Brazil en "My diner with André".
 
 Er kwamen helaas weinig anderen opdagen. 
 
